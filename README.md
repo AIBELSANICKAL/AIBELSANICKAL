@@ -72,15 +72,15 @@ const aibel = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aibel-anickal&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00ff88&icon_color=aa88ff&text_color=e0e0ff&ring_color=5533ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AIBELSANICKAL&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00ff88&icon_color=aa88ff&text_color=e0e0ff&ring_color=5533ff" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aibel-anickal&theme=radical&hide_border=true&background=0d0d1a&ring=5533ff&fire=00ff88&currStreakLabel=aa88ff&sideLabels=00ff88&dates=e0e0ff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AIBELSANICKAL&theme=radical&hide_border=true&background=0d0d1a&ring=5533ff&fire=00ff88&currStreakLabel=aa88ff&sideLabels=00ff88&dates=e0e0ff" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibel-anickal&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00ff88&text_color=e0e0ff&langs_count=8" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIBELSANICKAL&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00ff88&text_color=e0e0ff&langs_count=8" width="50%" />
 
 </div>
 
@@ -91,7 +91,7 @@ const aibel = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aibel-anickal&theme=react-dark&bg_color=0d0d1a&color=00ff88&line=5533ff&point=ffcc00&area=true&hide_border=true)](https://github.com/aibel-anickal)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AIBELSANICKAL&theme=react-dark&bg_color=0d0d1a&color=00ff88&line=5533ff&point=ffcc00&area=true&hide_border=true)](https://github.com/AIBELSANICKAL)
 
 </div>
 
@@ -102,7 +102,7 @@ const aibel = {
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aibel-anickal&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/aibel-anickal)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AIBELSANICKAL&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/AIBELSANICKAL)
 
 </div>
 
@@ -113,10 +113,10 @@ const aibel = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aibel-anickal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5533FF?style=for-the-badge&logo=firefox&logoColor=white)](https://aibel-anickal.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AIBELSANICKAL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5533FF?style=for-the-badge&logo=firefox&logoColor=white)](https://AIBELSANICKAL.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aibel@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aibel-anickal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIBELSANICKAL)
 
 </div>
 
@@ -132,6 +132,6 @@ const aibel = {
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=aibel-anickal&color=5533ff&style=for-the-badge&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=AIBELSANICKAL&color=5533ff&style=for-the-badge&label=VISITORS)
 
 </div>
