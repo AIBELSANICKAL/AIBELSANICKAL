@@ -4,10 +4,8 @@
 </p>
 
 # `< AIBEL S ANICKAL />`
-<p align="center">
-### ⚡ Full-Stack Developer · UI/UX Designer · Web Craftsman ⚡
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Developer;UI+%2F+UX+Designer;Building+pixel-perfect+experiences;INSERT+COIN+TO+VIEW+PROJECTS+%F0%9F%95%B9)](https://git.io/typing-svg)
+### ⚡ Full-Stack Developer · UI/UX Designer · Web Craftsman ⚡ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Frontend+%26+Backend+Developer;UI+%2F+UX+Designer;Building+pixel-perfect+experiences;INSERT+COIN+TO+VIEW+PROJECTS+%F0%9F%95%B9)](https://git.io/typing-svg)
 
 </div>
 
