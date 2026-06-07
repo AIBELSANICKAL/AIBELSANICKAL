@@ -1,5 +1,7 @@
 <!-- Header -->
-<div align="center">
+<p align="center">
+  <img src="aibel.svg" alt="AIBEL Animated Banner" />
+</p>
 
 ```
  ░█████╗░██╗██████╗░███████╗██╗░░░░░
