@@ -65,7 +65,7 @@ const aibel = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=AIBELSANICKAL&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=00ff88&icon_color=aa88ff&text_color=e0e0ff&ring_color=5533ff" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AIBELSANICKAL&theme=radical&hide_border=true&background=0d0d1a&ring=5533ff&fire=00ff88&currStreakLabel=aa88ff&sideLabels=00ff88&dates=e0e0ff" width="48%" />
+<img src="https://streak-stats.demolab.com?user=AIBELSANICKAL&theme=radical&hide_border=true&background=0d0d1a&ring=5533ff&fire=00ff88&currStreakLabel=aa88ff&sideLabels=00ff88&dates=e0e0ff" width="48%" />
 
 </div>
 
